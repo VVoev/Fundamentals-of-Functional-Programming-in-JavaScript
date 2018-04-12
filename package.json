@@ -1,0 +1,22 @@
+{
+  "name": "fundamentals-of-functional-programming-in-javascript",
+  "version": "1.0.0",
+  "description": "Functional Programing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VVoev/Fundamentals-of-Functional-Programming-in-JavaScript.git"
+  },
+  "author": "vladimir voev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VVoev/Fundamentals-of-Functional-Programming-in-JavaScript/issues"
+  },
+  "homepage": "https://github.com/VVoev/Fundamentals-of-Functional-Programming-in-JavaScript#readme",
+  "dependencies": {
+    "rambda": "^1.1.0"
+  }
+}
